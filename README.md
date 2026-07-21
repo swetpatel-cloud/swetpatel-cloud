@@ -8,7 +8,7 @@ Focused on writing clean code, solving real-world problems, and continuously lev
 
 <p align="center">
   <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a www.linkedin.com/in/swet-patel-32043425b">LinkedIn</a>
+  <a href="www.linkedin.com/in/swet-patel-32043425b">LinkedIn</a>
 </p>
 
 ---
@@ -67,33 +67,7 @@ Focused on writing clean code, solving real-world problems, and continuously lev
 
 ## 📌 Featured Projects
 
-### 🛍️ Skatch – Luxury eCommerce Platform
-A premium luxury bag eCommerce platform inspired by modern fashion brands.
-- Authentication & Authorization
-- Admin Dashboard, Product Management
-- Cart & Wishlist
-- Responsive, modern UI/UX
-
-### ♟️ Real-Time Chess Application
-A multiplayer chess platform powered by Socket.IO.
-- Real-time gameplay & multiplayer rooms
-- Move synchronization
-- Responsive interface
-
-### ✅ Task Tracker Application
-A productivity-focused task management platform.
-- CRUD Operations, User Authentication
-- Protected Routes
-- Clean Dashboard Experience
-
-### 💻 HP-Terminal-Portfolio
-A terminal-style developer portfolio built with JavaScript.
-
-### 🔄 Skill-Exchange-Platform
-A platform for exchanging skills, built with React & Vite.
-
-### 🏆 Creative-Hackathon-Enquiry-Portal
-An enquiry portal built for a hackathon, built with Python.
+> 🚧 Projects will be pinned here directly from **[swetpatel-cloud](https://github.com/swetpatel-cloud)** repositories.
 
 ---
 
@@ -102,10 +76,6 @@ An enquiry portal built for a hackathon, built with Python.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=swetpatel-cloud&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetpatel-cloud&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swetpatel-cloud&theme=radical" />
 </p>
 
 ---
