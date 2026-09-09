@@ -96,16 +96,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [SP-Terminal-Portfolio](https://github.com/swetpatel-cloud/SP-Terminal-Portfolio) | A terminal-style developer portfolio | JavaScript |
-| [Skill-Exchange-Platform](https://github.com/swetpatel-cloud/Skill-Exchange-Platform) | A platform for exchanging skills, built with React & Vite | JavaScript |
-| [Creative-Hackathon-Enquiry-Portal](https://github.com/swetpatel-cloud/Creative-Hackathon-Enquiry-Portal) | Enquiry portal built for a hackathon | Python |
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
