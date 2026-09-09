@@ -8,7 +8,8 @@ Focused on writing clean code, solving real-world problems, and continuously lev
 
 <p align="center">
   <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a href="www.linkedin.com/in/swet-patel-32043425b">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/swet-patel1222">LinkedIn</a> •
+  <a href="/Swet_Patel_Resume.pdf">Resume</a>
 </p>
 
 ---
